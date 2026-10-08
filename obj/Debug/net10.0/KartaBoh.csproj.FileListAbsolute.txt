@@ -1,0 +1,14 @@
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\bin\Debug\net10.0\KartaBoh.exe
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\bin\Debug\net10.0\KartaBoh.deps.json
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\bin\Debug\net10.0\KartaBoh.runtimeconfig.json
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\bin\Debug\net10.0\KartaBoh.dll
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\bin\Debug\net10.0\KartaBoh.pdb
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.AssemblyInfoInputs.cache
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.AssemblyInfo.cs
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.csproj.CoreCompileInputs.cache
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.dll
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\refint\KartaBoh.dll
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.pdb
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\KartaBoh.genruntimeconfig.cache
+C:\Users\s37399\Desktop\KartaBohatera\KartaBoh\obj\Debug\net10.0\ref\KartaBoh.dll
